@@ -1,0 +1,11 @@
+.python-version
+.vscode/
+kanban.code-workspace
+static
+__pycache__/
+db.sqlite3
+*.docx
+*.pptx
+*.ppsx
+**/migrations
+migrations
